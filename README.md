@@ -1,5 +1,5 @@
 # change-detection-on-remote-sensing-images
-This is a national college-student innovation project funded by Northwestern Polytechnical University(NWPU) with 20,000 RMB.  
+This is a national college-student innovation project funded by Northwestern Polytechnical University(NWPU) with ￥10,000.  
 
 In this project, we invented a more general Histogram Fuzzy C-means Clustering algorithm to improve the quality of change detection on remote sensing images.  
 
