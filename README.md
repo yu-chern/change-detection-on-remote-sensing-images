@@ -6,3 +6,5 @@ In this project, we invented a more general Histogram Fuzzy C-means Clustering a
 This repository presents the results of change detection analysis we obtained in both a report and slides (written in Chinese Only). To obtain the Matlab code of the project, please contact [Yu Chen](chernyu@outlook.com).  
 
 ![image](https://user-images.githubusercontent.com/64321559/167358308-da806e52-39e6-42f2-b26c-682cda6c2d72.png)
+
+![image](https://user-images.githubusercontent.com/64321559/167358486-e4ee0378-4e62-4bb8-83dd-ff582448be3c.png)
